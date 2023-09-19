@@ -33,3 +33,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jason6356&show_icons=true&theme=tokyonight&locale=en" alt="jason6356" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jason6356&theme=dark" alt="jason6356" /></p>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6105cea9-97aa-4185-b42a-47e68c5c0b74" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
